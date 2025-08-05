@@ -198,6 +198,26 @@
                         <div class="text-center mt-4">
                             <a href="#" class="forgot-password">Lupa password?</a>
                         </div>
+
+                        <div class="mt-4 p-3" style="background-color: #f8f9fa; border-radius: 12px; border-left: 4px solid #667eea;">
+                            <h6 class="text-muted mb-3"><i class="bi bi-info-circle me-2"></i>Demo Login:</h6>
+                            <div class="row">
+                                <div class="col-md-6 mb-2">
+                                    <strong class="text-primary">Admin:</strong><br>
+                                    <small class="text-muted">
+                                        Email: admin@absensi.com<br>
+                                        Password: admin123
+                                    </small>
+                                </div>
+                                <div class="col-md-6 mb-2">
+                                    <strong class="text-success">User:</strong><br>
+                                    <small class="text-muted">
+                                        Email: user@absensi.com<br>
+                                        Password: user123
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="login-footer">
